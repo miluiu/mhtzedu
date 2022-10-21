@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sunup.edu.bd	TRUE	/	FALSE	1999999999	ci_session	bcb30ba7ef9baf63f97d8d799d769ffa7c4b4539
+sunup.edu.bd	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+
